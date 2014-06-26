@@ -9,4 +9,4 @@ git submodule init
 git sumbodule update
 ```
 
-You're now ready to go :-)
+You're all whining fucking kids!
